@@ -1,6 +1,6 @@
 # Title     : ConceptWAS
 # Objective : conceptWAS
-# Created by: juan
+# Created by: Juan Zhao<juan.zhao@vumc.org>; Monika Grabowska
 # Created on: 9/20/20
 conceptWAS<-function(cui_names, outcome, cui_table, covariates=c(NA), cores=1, adjustments=list(NA), method='logistf', unadjusted=F){
   
