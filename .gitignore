@@ -1,0 +1,14 @@
+.Rhistory
+.RData
+.DS_Store
+.idea
+.ipynb_checkpoints
+data/
+docs/
+images/
+dev_backup/
+R/bashes/
+pipeline/.cache/v/cache/
+pipeline/logs/
+*.out
+
