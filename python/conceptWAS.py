@@ -8,8 +8,8 @@ from patsy import dmatrices
 from scipy import stats
 from io import StringIO
 
-from pipeline.helper.io_helper import write_to_csv_from_list_of_dict
-from pipeline.config.config import pro_data_dir, summarized_data_dir
+from python.helper.io_helper import write_to_csv_from_list_of_dict
+from python.config.config import pro_data_dir, summarized_data_dir
 
 """
 multiple hypothesis testing

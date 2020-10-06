@@ -5,7 +5,7 @@ import os
 import errno
 import h5py
 from pathlib import Path
-from pipeline.helper.exception import DirectoryDoesNotExist
+from python.helper.exception import DirectoryDoesNotExist
 
 
 def write_to_csv_from_dict(file, data, append_write='w'):

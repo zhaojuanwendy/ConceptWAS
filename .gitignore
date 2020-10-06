@@ -8,7 +8,7 @@ docs/
 images/
 dev_backup/
 R/bashes/
-pipeline/.cache/v/cache/
-pipeline/logs/
+python/.cache/v/cache/
+python/logs/
 *.out
 
